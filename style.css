@@ -1,0 +1,31 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+
+}
+
+h2 {
+    background-color: antiquewhite;
+}
+
+#spoiler {
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+#chow {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.main {
+    height: 300px;
+    width: auto;
+}
